@@ -36,3 +36,8 @@ console.log(typeof heros);
 //        Arrays  =>  object
 //        Function  =>  function
 //        Object  =>  object
+
+// +----------------------------------------------------------------+----------------------------------------------------------------
+
+//  Stack (Primitive), Heap (Non-primitive)
+
