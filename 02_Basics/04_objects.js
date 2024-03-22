@@ -49,3 +49,21 @@ users[1].email
 // keys values entries
 
 // hasOwnProperty('name)
+
+const course = {
+    coursename: "js in hindi",
+    price: "798",
+    courseInst: "hitesh"
+}
+
+const {courseInst: ci} = course
+
+// console.log(courseInst);
+
+console.log(ci);
+
+[
+    {},
+    {},
+    {}
+]
